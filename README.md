@@ -1,6 +1,6 @@
 # Insertion-Sort
 ## Insertion Sort algoritması ve C# uygulaması
-[Patika Dev](www.patika.dev)
+[Patika Dev](https://www.patika.dev/tr)
 
 ## 1.Soru
 [22,27,16,2,18,6] -> [2,27,16,22,18,6] -> [2,6,16,22,18,27] -> [2,6,16,22,18,27] -> [2,6,16,18,22,27]
